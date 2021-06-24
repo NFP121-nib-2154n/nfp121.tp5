@@ -2,4 +2,15 @@
 comment0.target=EnsembleTest
 comment1.params=
 comment1.target=void\ testUnion()
-numComments=2
+comment2.params=
+comment2.target=void\ testAdd()
+comment3.params=
+comment3.target=void\ testInter()
+comment3.text=\r\n\ Tests\ de\ la\ m?thode\ intersection\ dans\ la\ classe\ Ensemble.\ \r\n
+comment4.params=
+comment4.target=void\ testDiff()
+comment4.text=\r\n\ Tests\ de\ la\ m?thode\ diff?rence\ dans\ la\ classe\ Ensemble.\ \r\n
+comment5.params=
+comment5.target=void\ testDiffSym()
+comment5.text=\r\n\ test\ de\ la\ m?thode\ diff?rence\ sym?trique\ dans\ la\ classe\ Ensemble.\ \r\n
+numComments=6
